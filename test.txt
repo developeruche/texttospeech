@@ -1,0 +1,5 @@
+The most common way to check for the existence of a file in Python is using the exists() and isfile() methods from the os.path module in the standard library.
+
+These functions are available on Python 2 and 3, and they’re usually the first suggestion that comes up when you consult the Python docs or a search engine on how to solve this problem.
+
+Here’s a demo of how to work with the os.path.exists() function. I’m checking several paths (files and directories) for existence in the example below:
